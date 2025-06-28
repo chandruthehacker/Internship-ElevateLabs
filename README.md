@@ -9,8 +9,8 @@
 
 | Day  | Topic                  | Tools Used               | Repository Link |
 |------|------------------------|--------------------------|-----------------|
-| 1    | Port Scanning          | Nmap, Wireshark          | [Day 1 Repo](https://github.com/...) |
-| 2    | Phishing Detection     | Email Header Analysis    | [Day 2 Repo](https://github.com/...) |
+| 1    | Port Scanning          | Nmap, Wireshark          | [Day 1 Repo](https://github.com/chandruthehacker/ElevateLabs-Day1-PortScan.git) |
+| 2    | Phishing Detection     | Email Header Analysis    | [Day 2 Repo](https://github.com/chandruthehacker/ElevateLabs-Day2-Phishing-Detection) |
 | 3    | Vulnerability Scanning | Nessus Essentials        | [Day 3 Repo](https://github.com/...) |
 | 4    | Firewall Hardening     | Windows/Linux Firewalls  | [Day 4 Repo](https://github.com/...) |
 | 5    | Packet Analysis        | tcpdump, Wireshark       | [Day 5 Repo](https://github.com/...) |
