@@ -12,7 +12,7 @@
 | 1        | Port Scanning          | Nmap, Wireshark          | [Project 1](https://github.com/chandruthehacker/ElevateLabs-Project1-PortScan.git) |
 | 2        | Phishing Detection     | Email Header Analysis    | [Project 2](https://github.com/chandruthehacker/ElevateLabs-Project2-Phishing-Detection) |
 | 3        | Firewall Hardening     | Windows/Linux Firewalls  | [Project 3](https://github.com/chandruthehacker/ElevateLabs-Project3-Firewall-Hardening) |
-| 5        | Packet Analysis        | tcpdump, Wireshark       | [Project 4](https://github.com/chandruthehacker/ElevateLabs-Project4-Packet-Analysis) |
+| 4        | Packet Analysis        | tcpdump, Wireshark       | [Project 4](https://github.com/chandruthehacker/ElevateLabs-Project4-Packet-Analysis) |
 
 
 
